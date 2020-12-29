@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/kota999/github-actions-container-sample/actions"><img alt="GitHub Actions status" src="https://github.com/kota999/github-actions-container-sample/workflows/build-test/badge.svg"></a>
-</p>
+![test](https://github.com/kota999/github-actions-container-sample/workflows/test/badge.svg)
 
 # Uppercase Action
 
