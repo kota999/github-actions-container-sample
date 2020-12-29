@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/github-actions-up-and-running/uppercase/actions"><img alt="GitHub Actions status" src="https://github.com/github-actions-up-and-running/uppercase/workflows/build-test/badge.svg"></a>
+  <a href="https://github.com/kota999/github-actions-container-sample/actions"><img alt="GitHub Actions status" src="https://github.com/kota999/github-actions-container-sample/workflows/build-test/badge.svg"></a>
 </p>
 
 # Uppercase Action
@@ -21,7 +21,7 @@ The text converted to uppercase.
 ## Example Usage
 
 ```yaml
-uses: github-actions-up-and-running/uppercase@v1.0.0
+uses: kota999/github-actions-container-sample@v1.0.0
 with:
   text: Hello, World!
 ```
